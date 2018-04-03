@@ -8,16 +8,21 @@ Par exemple, [W3 développeur Web junior](https://3wa.fr/wp-content/uploads/2017
 * IDE
 * émulateur
 * VM Machine Virtuelle
+* conteneur
 * depot
 * videorecord
 
+## protocoles de décentralisation
+* activitypub https://activitypub.rocks/
+* kinto
 
 
 ## WebSite
 * statique
 * CMS
 * serveur
-*
+* navigateur
+* cloud
 
 ## framework
 * Angular

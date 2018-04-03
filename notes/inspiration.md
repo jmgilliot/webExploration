@@ -19,6 +19,7 @@ Généralement sur de modes proches de celui abordés dans le cours "Exploration
 Une recherche simple web course github donne plein de liens
 * [Cours de Kottans](https://github.com/Kottans/web)
 * [Dufts university web programming](https://github.com/tuftsdev/WebProgramming)
+* [cours web suisse](https://cours-web.ch/)
 * Clairement Plunker est utilisé pour réaliser des exercices
 * [cours de GIT par Rémi Sharrock] (https://docs.google.com/document/d/1v3lOZfxfrOwNclMiIYTj7BWsB0jXwH7m1tCyP05q4K0/pub)
 * [livre git](https://git-scm.com/book/fr/v1/)
